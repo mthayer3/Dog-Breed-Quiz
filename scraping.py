@@ -46,10 +46,29 @@ driver.get(url+"Affenpinscher")
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 
 score_list = soup.find_all("div", class_ = "breed-trait-score__score-wrap")
+coat_stats = soup.find_all("div", class_ = "breed-trait-score__choices" )
 list_of_scores = []
 
-print(score_list[0])
-print(len(score_list))
+# print(score_list[0])
+
+
+coat_type = []
+coat_length = []
+coat_type = coat_stats[0].find_all("div", class_ = "breed-trait-score__choice--selected")
+coat_length = coat_stats[1].find_all("div", class_= "breed-trait-score__choice--selected")
+
+# Find coat type
+for i in range(len(coat_type)):
+    coat_type[i] = coat_type[i].find("span").text.strip()
+print(coat_type)
+
+#Find coat length
+for i in range(len(coat_length)):
+    coat_length[i] = coat_length[i].find("span").text.strip()
+
+
+print(coat_length)
+
 
 for i in range(14):
     score = []
