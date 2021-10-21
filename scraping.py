@@ -39,50 +39,68 @@ dog_list = [
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 url = "https://www.akc.org/dog-breeds/"
-driver.get(url+"Affenpinscher")
+for i in range(len(dog_list)):
+    dog_list[i] = dog_list[i].replace(" ", "-")
+print(dog_list)
+
+
+for i in dog_list:
+    time.sleep(1)
+    driver.get(url+i)
+
+    
+
+    # driver.get(url+"Affenpinscher")
+
+
 # response = requests.get(url+ "Affenpinscher")
 # print("Response: ", response.status_code, response.url)
 
-soup = BeautifulSoup(driver.page_source, 'html.parser')
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
 
-score_list = soup.find_all("div", class_ = "breed-trait-score__score-wrap")
-coat_stats = soup.find_all("div", class_ = "breed-trait-score__choices" )
-list_of_scores = []
-
-# print(score_list[0])
-
-
-coat_type = []
-coat_length = []
-coat_type = coat_stats[0].find_all("div", class_ = "breed-trait-score__choice--selected")
-coat_length = coat_stats[1].find_all("div", class_= "breed-trait-score__choice--selected")
-
-# Find coat type
-for i in range(len(coat_type)):
-    coat_type[i] = coat_type[i].find("span").text.strip()
-print(coat_type)
-
-#Find coat length
-for i in range(len(coat_length)):
-    coat_length[i] = coat_length[i].find("span").text.strip()
-
-
-print(coat_length)
-
-
-for i in range(14):
-    score = []
-    score = score_list[i].find_all("div", class_ = "breed-trait-score__score-unit breed-trait-score__score-unit--filled")
-    list_of_scores.append(len(score))
+    score_list = soup.find_all("div", class_ = "breed-trait-score__score-wrap")
+    coat_stats = soup.find_all("div", class_ = "breed-trait-score__choices" )
+    list_of_scores = []
 
 
 
+    coat_type = []
+    coat_length = []
+    coat_type = coat_stats[0].find_all("div", class_ = "breed-trait-score__choice--selected")
+    coat_length = coat_stats[1].find_all("div", class_= "breed-trait-score__choice--selected")
 
-print(list_of_scores)
+    # Find coat type
+    for i in range(len(coat_type)):
+        coat_type[i] = coat_type[i].find("span").text.strip()
+    print(coat_type)
 
-# with open("scraping.txt","w", encoding = "utf-8") as variable_name:
-#     variable_name.write(soup.prettify())
-# print(soup.prettify())
+    #Find coat length
+    for i in range(len(coat_length)):
+        coat_length[i] = coat_length[i].find("span").text.strip()
+
+
+    print(coat_length)
+
+
+    for i in range(14):
+        score = []
+        score = score_list[i].find_all("div", class_ = "breed-trait-score__score-unit breed-trait-score__score-unit--filled")
+        list_of_scores.append(len(score))
+
+
+
+
+    print(list_of_scores)
+    with open('final.txt', 'a') as f:
+        # f.write(list_of_scores)
+        for i in range(len(list_of_scores)-1):
+            f.write(str(list_of_scores[i])+",")
+        f.write(str(list_of_scores[-1]))
+        f.write("\n")
+
+    # with open("scraping.txt","w", encoding = "utf-8") as variable_name:
+    #     variable_name.write(soup.prettify())
+    # print(soup.prettify())
 driver.quit()
 
 
