@@ -1,0 +1,129 @@
+Breed, Affectionate With Family, Good With Young Children, Good With Other Dogs, Shedding Level, Coat Grooming Frequency, Drooling Level, Openness to Strangers, Playfulness Level, Watchdog/Protective Nature, Adaptability Level, Trainability Level, Energy Level, Barking Level, Mental Stimulation Needs, Coat Type, Coat Length 
+Affenpinscher,3,3,3,3,3,1,5,3,3,4,3,3,3,3,Wiry ,Short Medium 
+Afghan-Hound,3,3,3,1,4,1,3,3,3,3,1,4,3,3,Silky ,Long 
+Airedale-Terrier,3,3,3,1,3,1,3,3,5,3,3,3,3,3,Wiry ,Short Medium 
+Akita,3,3,1,3,3,1,2,3,5,3,3,4,2,3,Double ,Medium 
+Alaskan-Klee-Kai,0,0,0,3,2,0,0,0,0,0,3,4,0,0,,
+Alaskan-Malamute,3,3,3,3,3,1,3,3,4,3,5,4,3,3,Double ,Medium 
+American-Bulldog,0,3,3,2,0,0,0,0,0,0,4,0,1,0,Smooth ,Short 
+American-English-Coonhound,3,3,5,2,1,1,3,3,3,3,3,4,4,3,Smooth ,Short 
+American-Eskimo-Dog,5,5,3,3,3,1,5,3,3,4,4,4,3,3,Double ,Medium 
+American-Foxhound,3,5,5,3,1,1,3,3,3,3,3,4,5,3,Smooth ,Short 
+American-Hairless-Terrier,5,5,3,1,1,1,3,3,3,5,5,3,3,3,Hairless ,Short 
+American-Leopard-Hound,3,5,3,3,1,1,3,3,3,3,3,4,3,3,Smooth ,Short 
+American-Staffordshire-Terrier,5,3,3,2,1,1,4,3,5,3,3,3,3,3,Smooth ,Short 
+American-Water-Spaniel,3,3,3,1,3,1,3,3,3,3,5,3,3,3,Double Curly ,Medium 
+Anatolian-Shepherd-Dog,1,3,3,3,2,1,1,3,5,3,2,3,3,3,Smooth ,Short 
+Appenzeller-Sennenhund,3,3,3,3,2,1,3,3,3,3,3,3,4,3,Smooth ,Short 
+Australian-Cattle-Dog,3,3,3,3,1,1,3,3,4,3,4,5,1,4,Smooth Double ,Short 
+Australian-Kelpie,3,3,3,3,1,1,3,3,4,3,4,5,1,4,Smooth Double ,Short 
+Australian-Shepherd,3,5,3,3,2,1,3,4,3,3,5,5,3,5,Double ,Medium 
+Australian-Stumpy-Tail-Cattle-Dog,3,3,3,3,1,1,3,3,4,3,4,5,1,4,Double ,Short 
+Australian-Terrier,3,5,3,1,2,1,3,4,4,3,4,4,5,4,Wiry ,Short 
+Azawakh,3,3,3,2,2,1,1,3,3,3,2,3,1,3,Smooth ,Short 
+Barbado-da-Terceira,0,4,3,1,0,0,0,0,0,0,5,5,5,0,,Medium 
+Barbet,4,5,5,1,3,1,3,3,3,3,4,3,3,3,Curly Wavy ,Medium Long 
+Basenji,3,3,3,2,1,1,3,3,3,3,2,4,1,4,Smooth ,Short 
+Basset-Fauve-de-Bretagne,3,5,4,3,2,1,3,3,3,3,3,4,4,3,Wiry Double ,Medium 
+Basset-Hound,3,5,5,2,3,4,3,3,3,3,3,2,4,3,Smooth ,Short 
+Bavarian-Mountain-Scent-Hound,3,3,3,3,2,2,3,3,3,3,4,4,2,4,Smooth ,Short 
+Beagle,3,5,5,3,2,1,3,4,2,4,3,4,4,4,Smooth ,Short 
+Bearded-Collie,4,5,5,3,4,1,4,4,3,4,3,4,5,3,Silky ,Long 
+Beauceron,3,3,3,4,3,1,2,3,4,3,3,5,3,3,Smooth Double ,Short 
+Bedlington-Terrier,3,3,3,1,3,1,3,3,4,3,3,4,3,3,Curly ,Medium 
+Belgian-Laekenois,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Wiry Rough ,Medium 
+Belgian-Malinois,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Smooth ,Short 
+Belgian-Sheepdog,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Double ,Medium 
+Belgian-Tervuren,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Double ,Medium 
+Bergamasco-Sheepdog,3,3,3,1,1,2,3,3,4,3,3,3,1,3,Corded ,Long 
+Berger-Picard,3,3,3,3,1,1,3,3,4,3,4,4,2,4,Wiry ,Medium 
+Bernese-Mountain-Dog,5,5,5,5,3,3,4,4,3,4,4,4,3,3,Double ,Medium 
+Bichon-Frise,5,5,5,1,5,1,5,4,2,4,4,4,3,3,Double Curly ,Long 
+Biewer-Terrier,5,3,5,1,3,1,3,4,2,3,3,3,3,3,Silky ,Long 
+Black-and-Tan-Coonhound,4,5,5,3,2,3,3,3,2,4,3,3,4,3,Smooth ,Short 
+Black-Russian-Terrier,3,3,3,3,4,3,2,3,5,4,4,4,3,4,Double Curly ,Medium Long 
+Bloodhound,4,3,3,3,2,5,3,3,2,3,4,3,5,3,Smooth ,Short 
+Bluetick-Coonhound,3,3,5,3,2,2,3,3,2,3,4,4,4,3,Smooth ,Short 
+Boerboel,5,4,2,3,2,3,3,3,5,3,4,3,3,4,Smooth ,Short 
+Bohemian-Shepherd,5,5,3,3,2,2,4,3,3,4,4,3,3,4,Double Wavy ,Medium 
+Bolognese,4,3,3,1,3,1,3,4,2,4,3,4,3,3,Wavy Silky ,Long 
+Border-Collie,5,3,3,3,3,1,4,5,3,5,5,5,4,5,Double Wavy ,Medium 
+Border-Terrier,4,5,3,2,2,1,4,4,3,4,4,3,3,3,,Short 
+Borzoi,3,3,3,3,2,1,3,3,3,3,2,4,2,4,Curly Silky ,Medium 
+Boston-Terrier,5,5,4,2,2,1,5,5,3,3,4,4,2,3,Smooth ,Short 
+Bouvier-des-Flandres,3,3,3,3,4,2,3,3,4,3,4,4,3,3,Rough Double ,Medium 
+Boxer,4,5,3,2,2,3,4,4,4,3,4,4,3,4,Smooth ,Short 
+Boykin-Spaniel,3,5,5,3,3,1,3,4,3,4,4,4,3,3,Double Wavy ,Medium 
+Bracco-Italiano,3,4,4,2,1,2,3,3,3,3,5,4,2,3,Smooth ,Short 
+Braque-du-Bourbonnais,3,3,4,2,1,2,3,3,3,3,5,4,2,3,Smooth ,Short 
+Braque-Francais-Pyrenean,3,5,5,3,1,2,3,3,3,3,3,5,3,3,Smooth ,Short 
+Briard,3,3,3,1,4,2,3,3,4,3,3,3,1,3,Double Wavy ,Long 
+Brittany,3,4,4,3,3,1,3,4,3,3,5,5,3,4,Double Wavy ,Short 
+Broholmer,3,3,3,3,1,3,3,3,4,3,3,2,1,3,Smooth ,Short 
+Brussels-Griffon,4,3,3,3,3,1,4,4,3,4,4,3,4,3,Wiry Smooth Double ,Short Medium 
+Bull-Terrier,4,3,1,3,2,1,4,4,3,3,3,4,3,4,Smooth ,Short 
+Bulldog,4,3,3,3,3,3,4,4,3,3,4,3,2,3,Smooth ,Short 
+Bullmastiff,4,3,3,3,1,3,3,3,5,3,4,4,1,4,Smooth ,Short 
+Cairn-Terrier,4,3,3,2,2,1,3,4,4,3,3,3,4,3,Wiry Double ,Medium 
+Canaan-Dog,3,3,3,4,2,1,3,3,4,3,4,3,5,3,Smooth Double ,Short 
+Cane-Corso,4,3,3,2,1,3,3,3,5,3,4,4,3,3,Smooth ,Short 
+Cardigan-Welsh-Corgi,4,4,3,3,2,1,4,4,3,3,4,4,5,4,Double ,Medium 
+Carolina-Dog,3,3,3,3,1,2,3,3,3,3,3,3,3,3,Smooth ,Short 
+Catahoula-Leopard-Dog,4,3,3,3,2,2,3,3,4,3,4,5,1,4,Smooth ,Short 
+Caucasian-Shepherd-Dog,3,3,2,4,3,4,2,2,5,3,3,3,2,3,Double ,Medium 
+Cavalier-King-Charles-Spaniel,5,5,5,2,2,2,4,3,3,3,4,3,3,3,Wavy Silky ,Medium 
+Central-Asian-Shepherd-Dog,3,3,3,3,1,3,1,3,5,4,4,3,3,3,Double ,Medium 
+Cesky-Terrier,4,5,3,2,2,1,4,3,3,4,3,3,3,3,Wavy Silky ,Medium 
+Chesapeake-Bay-Retriever,4,3,3,3,3,2,3,3,4,4,5,4,3,4,Wiry Wavy ,Medium 
+Chihuahua,4,1,3,2,1,1,2,4,4,4,3,4,5,3,Smooth ,Short Medium 
+Chinese-Crested,4,3,3,1,2,1,4,3,3,4,4,3,3,3,,Short Medium 
+Chinese-Shar-Pei,4,3,3,3,1,3,3,3,4,4,3,3,3,3,Smooth ,Short 
+Chinook,4,5,5,3,3,1,3,3,4,4,4,3,5,3,Smooth ,Medium 
+Chow-Chow,4,3,2,3,3,3,2,3,5,3,3,3,1,3,Smooth Rough Double ,Medium 
+Cirneco-dellEtna,4,3,4,1,1,1,3,4,3,4,4,3,2,3,Smooth ,Short 
+Clumber-Spaniel,4,3,3,3,2,4,4,3,3,4,4,3,1,3,Wavy Silky ,Medium 
+Cocker-Spaniel,4,5,5,3,4,2,4,3,3,4,4,4,3,3,Double Silky ,Long 
+Collie,4,5,3,3,3,2,3,4,3,4,4,3,5,3,Smooth Rough ,Short Long 
+Coton-de-Tulear,5,5,5,2,4,1,5,4,3,4,4,3,1,3,Double Wavy ,Long 
+Croatian-Sheepdog,3,3,3,2,1,3,2,3,5,2,3,3,3,3,Double Wavy ,Medium 
+Curly-Coated-Retriever,5,5,3,2,1,1,3,4,4,4,4,4,3,3,Double Curly ,Short 
+Czechoslovakian-Vlcak,3,1,1,5,2,3,3,3,5,2,3,3,3,3,Double Wavy ,Medium 
+Dachshund,5,3,4,2,2,2,4,4,4,4,4,3,5,3,Smooth ,Short Medium 
+Dalmatian,5,3,3,4,2,2,4,4,4,4,4,4,3,4,Smooth ,Short 
+Dandie-Dinmont-Terrier,4,3,3,2,3,1,4,3,4,3,4,3,3,3,Double ,Medium 
+Danish-Swedish-Farmdog,5,5,5,2,1,1,5,4,4,4,4,4,3,4,Smooth ,Short 
+Deutscher-Wachtelhund,4,5,3,2,2,2,3,3,3,3,4,3,3,3,Double Wavy ,Medium 
+Doberman-Pinscher,5,5,3,4,1,2,4,4,5,4,5,5,3,4,Smooth ,Short 
+Dogo-Argentino,5,3,3,4,1,3,4,4,5,4,5,5,3,4,Smooth ,Short 
+Dogue-de-Bordeaux,5,3,3,4,1,5,3,3,5,4,4,3,3,4,Smooth ,Short 
+Drentsche-Patrijshond,4,5,3,3,2,2,4,3,3,5,5,5,3,5,Double Silky ,Medium 
+Drever,5,5,5,3,1,2,4,4,3,5,5,4,4,4,Double ,Short 
+Dutch-Shepherd,5,3,3,3,2,2,3,4,5,4,5,5,2,5,Double ,Short 
+English-Cocker-Spaniel,5,5,5,3,3,2,4,3,3,4,4,3,3,4,Double ,Medium Long 
+English-Foxhound,5,5,5,3,1,2,4,4,3,4,4,4,5,4,Double ,Short 
+English-Setter,5,4,4,3,3,3,4,4,3,4,4,3,3,4,Double Silky ,Medium 
+English-Springer-Spaniel,5,3,4,3,2,3,4,4,3,4,5,4,3,4,Double ,Medium 
+English-Toy-Spaniel,5,5,5,3,3,2,3,4,3,4,3,3,2,3,Double Silky ,Medium 
+Entlebucher-Mountain-Dog,5,3,5,3,1,2,3,3,5,4,3,5,3,4,Smooth ,Short 
+Estrela-Mountain-Dog,5,5,3,3,2,4,2,3,5,3,4,3,3,3,Double Wavy ,Long 
+Eurasier,4,4,3,3,3,2,2,3,3,3,4,3,3,4,Double ,Medium 
+Field-Spaniel,5,5,4,3,2,2,4,3,3,4,5,3,3,3,Smooth Wavy ,Medium 
+Finnish-Lapphund,5,4,3,4,2,2,4,3,3,4,4,3,5,3,Double ,Medium 
+Finnish-Spitz,5,5,4,3,2,2,3,3,3,4,3,5,5,4,Double ,Medium 
+Flat-Coated-Retriever,5,5,5,3,2,2,5,5,3,5,5,5,3,4,Smooth ,Medium 
+French-Bulldog,5,5,4,3,1,3,5,5,3,5,4,3,1,3,Smooth ,Short 
+French-Spaniel,5,5,5,3,1,2,5,4,3,5,5,4,3,5,Smooth ,Medium 
+German-Longhaired-Pointer,5,5,4,3,1,2,4,4,3,4,5,4,3,4,Double ,Medium 
+German-Pinscher,5,3,3,3,1,1,3,4,4,3,5,5,3,4,Smooth ,Short 
+German-Shepherd-Dog,5,5,3,4,2,2,3,4,5,5,5,5,3,5,Double ,Medium 
+German-Shorthaired-Pointer,5,5,4,3,2,2,4,4,4,4,5,5,3,5,Smooth ,Short 
+German-Spitz,5,3,4,3,3,2,4,4,3,5,5,3,5,3,Double ,Medium 
+German-Wirehaired-Pointer,5,3,3,2,2,2,4,4,3,4,5,5,3,4,Wiry Double ,Medium 
+Giant-Schnauzer,5,3,3,3,4,2,3,4,5,4,5,5,3,4,Wiry Double ,Medium 
+Glen-of-Imaal-Terrier,5,3,3,2,3,2,3,3,3,4,3,3,2,3,Wiry ,Medium 
+Golden-Retriever,5,5,5,4,2,2,5,4,3,5,5,3,1,4,Double ,Medium 
+Gordon-Setter,5,3,3,3,2,4,3,3,4,4,5,5,3,4,Double ,Medium 
+Grand-Basset-Griffon-Vendeen,5,3,4,3,2,2,5,4,3,4,3,5,4,4,Wiry Double ,Medium 
+Great-Dane,5,3,3,3,1,4,3,4,5,4,3,4,3,4,Smooth ,Short 
+Great-Pyrenees,5,3,3,3,2,3,3,3,5,3,3,3,3,3,Double ,Medium 
+Greater-Swiss-Mountain-Dog,5,5,3,3,2,3,5,4,4,3,4,4,3,4,Smooth ,Short 
