@@ -20,7 +20,7 @@ print("Playfulness Level (1 only when you want to play 5 non-stop)")
 playfulness_level = input()
 print("Watchdog/Protective Nature(1 what's mine is yours 5 vigilant)")
 watchdog_nature = input()
-print("Adaptability Level (1 lives for routing 5 highly adaptible)")
+print("Adaptability Level (1 lives for routine 5 highly adaptible)")
 adaptability_level = input()
 print("Trainability Level (1 self willed 5 eager to please)")
 trainability_level = input()
@@ -109,7 +109,13 @@ data = {
 
 data_df = pd.DataFrame(data, index=df["Breed"])
 # data_df['total_value'] = df["Affectionate With Family", "Good With Young Children"](axis=1)
+data_df.loc[: , "total_value"] = data_df.loc[:, :].sum(axis=1)
+# print(data_df.loc["Affenpinscher",:])
 
 
-print(data_df.head())
 
+
+# print(data_df.head())
+
+sorted_data_df = data_df.sort_values(by= "total_value")
+print(sorted_data_df.head(10))
